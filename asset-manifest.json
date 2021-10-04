@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reachme/static/css/main.807d4009.chunk.css",
+    "main.js": "/reachme/static/js/main.3d9fadca.chunk.js",
+    "main.js.map": "/reachme/static/js/main.3d9fadca.chunk.js.map",
+    "runtime-main.js": "/reachme/static/js/runtime-main.60dafd7d.js",
+    "runtime-main.js.map": "/reachme/static/js/runtime-main.60dafd7d.js.map",
+    "static/css/2.6293a573.chunk.css": "/reachme/static/css/2.6293a573.chunk.css",
+    "static/js/2.a36d8caa.chunk.js": "/reachme/static/js/2.a36d8caa.chunk.js",
+    "static/js/2.a36d8caa.chunk.js.map": "/reachme/static/js/2.a36d8caa.chunk.js.map",
+    "index.html": "/reachme/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/reachme/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.807d4009.chunk.css.map": "/reachme/static/css/main.807d4009.chunk.css.map",
+    "static/js/2.a36d8caa.chunk.js.LICENSE.txt": "/reachme/static/js/2.a36d8caa.chunk.js.LICENSE.txt",
+    "static/media/app.e90a0902.jpeg": "/reachme/static/media/app.e90a0902.jpeg",
+    "static/media/datascience.eac45ecf.jpeg": "/reachme/static/media/datascience.eac45ecf.jpeg",
+    "static/media/digital.2a516ab2.jpeg": "/reachme/static/media/digital.2a516ab2.jpeg",
+    "static/media/marketing.c012b535.jpg": "/reachme/static/media/marketing.c012b535.jpg",
+    "static/media/software.85605584.jpeg": "/reachme/static/media/software.85605584.jpeg",
+    "static/media/technology.3337842c.png": "/reachme/static/media/technology.3337842c.png",
+    "static/media/web.1d7bf3ee.jpeg": "/reachme/static/media/web.1d7bf3ee.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60dafd7d.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.a36d8caa.chunk.js",
+    "static/css/main.807d4009.chunk.css",
+    "static/js/main.3d9fadca.chunk.js"
+  ]
+}
